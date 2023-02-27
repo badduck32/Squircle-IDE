@@ -1,3 +1,7 @@
+# This fork
+
+The goal of this for of Squircle is to add functionalities for plugins for Squircle.
+
 # Squircle CE
 
 **Squircle CE** is a fast and free multi-language code editor for Android.
